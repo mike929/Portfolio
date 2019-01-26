@@ -61,7 +61,7 @@
             "</div>",
             "",
             "<script>",
-            "    GitHubCalendar(\".calendar\", \"your-username\");",
+            "    GitHubCalendar(\".calendar\", \"mike929\");",
             "</script>"
           ]
         }

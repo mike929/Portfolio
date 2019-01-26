@@ -28,7 +28,8 @@ jQuery(document).ready(function($) {
     $("#rss-feeds").rss(
     
         //Change this to your own rss feeds
-        "https://feeds.feedburner.com/TechCrunch/startups",
+        // "https://feeds.feedburner.com/TechCrunch/startups",
+        "https://tutorialzine.com/feed/",
         
         {
         // how many entries do you want?
